@@ -19,7 +19,9 @@ description: Welcome to Aishwarya Venkat's webpage!
 navbar-links:
   About Me: "aboutme"
   GIS Portfolio: "gis"
-  Research: "research"
+  Research: 
+    - Papers: "papers"
+    - Posters: "posters"
   Teaching:
     - Courses: "courses"
     - Workshops: "workshops"
