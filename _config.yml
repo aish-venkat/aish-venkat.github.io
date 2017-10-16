@@ -14,6 +14,9 @@ baseurl: ""
 # Name of website
 title: Aishwarya Venkat
 
+# Short description of your site
+description: 
+
 #For my changes
 # use meta-title: for the center heading of the page.
 # use title: to set the <title> of the web page.
@@ -109,7 +112,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: ""America/Vancouver""
+timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
