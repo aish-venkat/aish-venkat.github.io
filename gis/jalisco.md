@@ -10,4 +10,4 @@ This project was a collaboration with Ana Cecilia de Alba, Anna Valeria Zuccolot
 
 <br>
 
-<iframe style="width:1000px; height:708px;" src="//e.issuu.com/embed.html#10182408/54335181" frameborder="0" allowfullscreen></iframe>
+<iframe style="width:800px; height:600px;" src="//e.issuu.com/embed.html#10182408/54335181" frameborder="0" allowfullscreen></iframe>
