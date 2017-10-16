@@ -1,3 +1,8 @@
+---
+layout: page
+title: Posters
+subtitle: ###
+---
 
 <iframe style="width:1000px; height:800px;" src="//e.issuu.com/embed.html#10182408/48033540" frameborder="0" allowfullscreen></iframe>
 
