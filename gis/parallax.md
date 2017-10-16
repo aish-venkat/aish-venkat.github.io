@@ -10,4 +10,4 @@ Internationally-recognized artist [Shahzia Sikander](https://www.shahziasikander
 
 <br>
 
-<iframe width="800px" height="800px" src="http://www.arcgis.com/apps/MapSeries/?appid=7c4e9a29ebca421aa9c98363798b006a" frameborder="0" scrolling="no"></iframe>
+<iframe style="width:800px; height:600px;" src="//arcgis.com/apps/MapSeries/?appid=7c4e9a29ebca421aa9c98363798b006a" frameborder="0" allowfullscreen></iframe>
