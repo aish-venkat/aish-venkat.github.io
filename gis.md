@@ -16,9 +16,11 @@ Below are a few research questions I'm actively conducting academic research on!
 </table>
   
 # Side Quests
-<br>
+
+
 In addition to my primary research, I've worked on a few side projects through internships, applications, or just my own curiosity. Below are a few examples of such projects.
-<br>
+
+
 <table align="center">
   <tr>
   <th><b><center>     BOSTON STREET ART     </center></b></th>
