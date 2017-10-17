@@ -1,6 +1,6 @@
 <table align="center">
   <tr>
-  <th><b><center>     INGRESS ART     </center></b></th>
+  <th><b><center>     BOSTON STREET ART     </center></b></th>
   <th><b><center>     AFRICAN SUSTAINABLE LIVESTOCK     </center></b></th>
   </tr>
   <tr>
