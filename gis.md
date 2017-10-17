@@ -2,7 +2,7 @@
 
 Below are a few research questions I'm actively conducting academic research on!
 <br>
-<table align="center">
+<table align="center" cellspacing="0" cellpadding="0" border="0">
   <tr>
   <th><b><center>     CHOLERA     </center></b></th>
   <th><b><center>     AGRICULTURE     </center></b></th>
