@@ -25,6 +25,7 @@ navbar-links:
   Teaching:
     - Courses: "courses"
     - Workshops: "workshops"
+  CV: "cv"
   
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 
