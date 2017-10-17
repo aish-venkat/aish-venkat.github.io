@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Deforestation in the Brazilian Amazon
+title: Cholera in Vellore, India
 subtitle: 
 ---
 
-### Deforestation in the Brazilian Amazon
+### Cholera in Vellore, India
 
-<br>
 
-<iframe id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="800" height="800" src="https://prezi.com/embed/-p8pm7fswj9l/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE43MHdLNWpsdFJLb2ZHanI5KzN6a1AxQmhjQ1hmM2YrdnNuZG5nL1JBPT0&amp;landing_sign=S-SbKVP5s0pbtSmmqN8gdQ8hMMaoe8WhD6gplZGrTN0"></iframe>
+The following presentation was shared at [25th Annual The International Environmetrics Society Conference](http://www.environmetrics.org/TIES2015/ties2015.html) in Al Ain, UAE in November 2015.
+
+<iframe src='https://onedrive.live.com/embed?cid=FB0FC96F06F9855A&resid=FB0FC96F06F9855A%211084&authkey=AF41MiivLN1crP8&em=2&wdAr=1.7777777777777777' width='1186px' height='691px' frameborder='0'>This is an embedded <a target='_blank' href='http://office.com'>Microsoft Office</a> presentation, powered by <a target='_blank' href='http://office.com/webapps'>Office Online</a>.</iframe>
