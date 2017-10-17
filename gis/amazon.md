@@ -6,7 +6,7 @@ subtitle:
 
 ### Deforestation in the Brazilian Amazon
 
-I contributed to this project as a 2015 Summer Research Assistant at [AidData at the College of William & Mary](http://www.aiddata.org) in Williamsburg, VA. This research led to a white paper <i>[Indigenous Land Rights and Deforestation: Evidence from the Brazilian Amazon](https://aish-venkat.github.io/gis/amazon.pdf)</i> published by my supervisors, Dr. Ariel Ben-Yishay and Rachel Trischler.
+I contributed to this project as a 2015 Summer Research Assistant at [AidData at the College of William & Mary](http://www.aiddata.org) in Williamsburg, VA. This research led to a white paper <i>[Indigenous Land Rights and Deforestation: Evidence from the Brazilian Amazon](https://aish-venkat.github.io/gis/amazon.pdf)</i> published in March 2016 by my supervisors, Dr. Ariel Ben-Yishay and Rachel Trischler.
 
 <br>
 
