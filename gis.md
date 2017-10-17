@@ -18,7 +18,7 @@ Below are a few research questions I'm actively conducting academic research on!
 # Side Quests
 
 
-In addition to my primary research, I've worked on a few side projects through internships, applications, or just my own curiosity. Below are a few examples of such projects.
+In addition to my primary research, I've worked on a few side projects through consulting, internships, applications, or just my own curiosity. Below are a few examples of such projects.
 
 
 <table align="center">
