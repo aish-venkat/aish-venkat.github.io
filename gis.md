@@ -23,7 +23,7 @@ In addition to my primary research, I've worked on a few side projects through c
 
 <table align="center" cellspacing="0" cellpadding="0" border="0">
   <tr>
-  <th><b><center>     BOSTON STREET ART     </center></b></th>
+  <th><b><center>     PUBLIC ART IN BOSTON    </center></b></th>
   <th><b><center>     AFRICAN SUSTAINABLE LIVESTOCK 2050     </center></b></th>
   <th><b><center>     INDIA CENSUS DATA EXPLORER     </center></b></th>
   </tr>
