@@ -1,6 +1,6 @@
 # Main Quests
 
-Below are a few research questions I'm actively conducting academic research on!
+Below are a few research topics I'm actively conducting academic research on!
 <br>
 <table align="center" cellspacing="0" cellpadding="0" border="0">
   <tr>
