@@ -37,8 +37,8 @@ In addition to my primary research, I've worked on a few side projects through c
   <th><b><center>     BUILDING CODE VIOLATIONS     </center></b></th>
   </tr>
   <tr>
-  <th><a href="https://aish-venkat.github.io/gis/bos311/"><img src="/gis/bos311.png" width="350" height="350"></a></th>
-  <th><a href="https://aish-venkat.github.io/gis/bldgcd/"><img src="/gis/bldgcd.png" width="350" height="350"></a></th>
+  <th><a href="https://aish-venkat.github.io/gis/bos311/"><img src="/gis/bos311.png" width="250" height="200"></a></th>
+  <th><a href="https://aish-venkat.github.io/gis/bldgcd/"><img src="/gis/bldgcd.png" width="250" height="200"></a></th>
   </tr>  
   <tr>
   <th><b><center>     AMAZON DEFORESTATION     </center></b></th>
