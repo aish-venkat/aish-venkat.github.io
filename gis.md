@@ -30,7 +30,7 @@ In addition to my primary research, I've worked on a few side projects through c
   <tr>
   <th><a href="https://aish-venkat.github.io/gis/bos_art/"><img src="/gis/bos_art.jpg" width="250" height="200"></a></th>
   <th><a href="https://aish-venkat.github.io/gis/asl2050/"><img src="/gis/asl2050.jpg" width="250" height="200"></a></th>
-  <th><a href="https://apps.aishwarya-venkat.com"><img src="/gis/census.png" width="250" height="200"></a></th>
+  <th><a href="http://apps.aishwarya-venkat.com/shiny/IndiaCensusDataExplorer/"><img src="/gis/census.png" width="250" height="200"></a></th>
   </tr>
   <tr>
   <th><b><center>     BOSTON 311     </center></b></th>
