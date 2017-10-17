@@ -24,14 +24,22 @@ In addition to my primary research, I've worked on a few side projects through c
 <table align="center">
   <tr>
   <th><b><center>     BOSTON STREET ART     </center></b></th>
-  <th><b><center>     AFRICAN SUSTAINABLE LIVESTOCK     </center></b></th>
-  <th><b><center>     BOSTON 311     </center></b></th>
+  <th><b><center>     AFRICAN SUSTAINABLE LIVESTOCK 2050     </center></b></th>
+  <th><b><center>     INDIA CENSUS DATA EXPLORER     </center></b></th>
   </tr>
   <tr>
   <th><a href="https://aish-venkat.github.io/gis/bos_art/"><img src="/gis/bos_art.jpg" width="250" height="200"></a></th>
   <th><a href="https://aish-venkat.github.io/gis/asl2050/"><img src="/gis/asl2050.jpg" width="250" height="200"></a></th>
-  <th><a href="https://aish-venkat.github.io/gis/bos311/"><img src="/gis/bos311.png" width="250" height="200"></a></th>
+  <th><a href="https://apps.aishwarya-venkat.com"><img src="/gis/census.png" width="250" height="200"></a></th>
   </tr>
+  <tr>
+  <th><b><center>     BOSTON 311     </center></b></th>
+  <th><b><center>     BUILDING CODE VIOLATIONS     </center></b></th>
+  </tr>
+  <tr>
+  <th><a href="https://aish-venkat.github.io/gis/bos311/"><img src="/gis/bos311.png" width="350" height="350"></a></th>
+  <th><a href="https://aish-venkat.github.io/gis/bldgcd/"><img src="/gis/bldgcd.png" width="350" height="350"></a></th>
+  </tr>  
   <tr>
   <th><b><center>     AMAZON DEFORESTATION     </center></b></th>
   <th><b><center>     PARALLAX    </center></b></th>
