@@ -38,7 +38,7 @@ In addition to my primary research, I've worked on a few side projects through c
   <th><b><center>     AMAZON DEFORESTATION     </center></b></th>
   </tr>
   <tr>
-  <th><a href="https://aish-venkat.github.io/gis/bos311/"><img src="/gis/bos311.png" width="250" height="200"></a></th>
+  <th><a href="https://aish-venkat.github.io/gis/bos311/"><img src="/gis/bos311.png" width="250" height="250"></a></th>
   <th><a href="https://aish-venkat.github.io/gis/bldgcd/"><img src="/gis/bldgcd.png" width="250" height="200"></a></th>
   <th><a href="https://aish-venkat.github.io/gis/amazon/"><img src="/gis/amazon.jpg" width="250" height="200"></a></th>
   </tr>  
@@ -47,8 +47,8 @@ In addition to my primary research, I've worked on a few side projects through c
   <th><b><center>     JALISCO     </center></b></th>
   </tr>
   <tr>
-  <th><a href="https://aish-venkat.github.io/gis/parallax/"><img src="/gis/parallax.jpg" width="250" height="200"></a></th>
-  <th><a href="https://aish-venkat.github.io/gis/jalisco/"><img src="/gis/jalisco-01.jpg" width="250" height="200"></a></th>
+  <th><a href="https://aish-venkat.github.io/gis/parallax/"><img src="/gis/parallax.jpg" width="250" height="250"></a></th>
+  <th><a href="https://aish-venkat.github.io/gis/jalisco/"><img src="/gis/jalisco-01.jpg" width="250" height="250"></a></th>
   </tr>
   <tr>
   </tr>
