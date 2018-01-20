@@ -2,7 +2,7 @@
 
 Below are a few research topics I'm actively conducting academic research on!
 <br>
-<table align="center" cellspacing="0" cellpadding="0" border="0">
+<table border="0" align="center" cellspacing="0" cellpadding="0">
   <tr>
   <th><b><center>     CHOLERA     </center></b></th>
   <th><b><center>     AGRICULTURE     </center></b></th>
@@ -21,7 +21,7 @@ Below are a few research topics I'm actively conducting academic research on!
 In addition to my primary research, I've worked on a few side projects through consulting, internships, applications, or just my own curiosity. Below are a few examples of such projects.
 
 
-<table align="center" cellspacing="0" cellpadding="0" border="0">
+<table  border="0" align="center" cellspacing="0" cellpadding="0" >
   <tr>
   <th><b><center>     PUBLIC ART IN BOSTON    </center></b></th>
   <th><b><center>     AFRICAN SUSTAINABLE LIVESTOCK 2050     </center></b></th>
