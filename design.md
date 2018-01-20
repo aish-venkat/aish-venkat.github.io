@@ -11,11 +11,12 @@ I am a self-taught graphic designer, and have recently expanded this interest in
 
 # Logos
 <figure>
-    <img src="Assets/icon.png" width="200">
+    <img src="img/AV_ASAT-LOGO.png" width="500">
     <figcaption>Tufts chapter of the American Statistical Association</figcaption>
 </figure>
 
+
 <figure>
-    <img src="img/AV_ASAT-LOGO.png" width="50">
+    <img src="img/AV_nds_logo.png" width="200">
     <figcaption>Tufts Nutrition Data Conference 2018</figcaption>
 </figure>
