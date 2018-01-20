@@ -10,5 +10,5 @@ I am a self-taught graphic designer, and have recently expanded this interest in
 ![](img/gbos_lasercut.jpg?raw=true)
 
 # Logos
-![]("img/AV_ASAT-LOGO.png"?raw=false)
-![]("img/AV_nds_logo.png"?raw=false)
+![](img/AV_ASAT-LOGO.png?raw=false)
+![](img/AV_nds_logo.png?raw=false)
