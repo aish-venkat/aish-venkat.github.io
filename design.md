@@ -12,5 +12,5 @@ I am a self-taught graphic designer, and have recently expanded this interest in
 # Logos
 
 
-<img src="./img/AV_ASAT-LOGO.png" alt="" style="width: 500px;"/>
-<img src="./img/AV_nds_logo.png" alt="" style="width: 200px;"/>
+<img src="./img/AV_ASAT-LOGO.png" alt="" width="500">
+<img src="./img/AV_nds_logo.png" alt="" width="200">
