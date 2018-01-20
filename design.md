@@ -11,5 +11,8 @@ I am a self-taught graphic designer, and have recently expanded this interest in
 
 # Logos
 
-<img src="/img/AV_ASAT-LOGO.png" width="400">        
-<img src="/img/AV_nds_logo.png" width="200">
+### [Tufts Chapter of the American Statistical Association](https://sites.tufts.edu/tuftsasa)
+<img src="/img/AV_ASAT-LOGO.png" width="500">    
+
+### Tufts Nutrition Data Conference 2018
+<img src="/img/AV_nds_logo.png" width="300">
