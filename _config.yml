@@ -19,7 +19,7 @@ description: Welcome to Aishwarya Venkat's webpage!
 navbar-links:
   About Me: "aboutme"
   Portfolio: 
-    - GIS: "gis3"
+    - GIS: "gis"
     - Cartography: "carto"
     - Data Viz: "dataviz"
     - Design: "design"
