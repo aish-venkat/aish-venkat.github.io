@@ -7,8 +7,8 @@ subtitle: ###
 I am a self-taught graphic designer, and have recently expanded this interest into built objects through lasercut materials. Below are some of the works I have created.
 
 # 3D Models
-![](img/gbos_lasercut.jpg?raw=true)
+![](img/gbos_lasercut.jpg)
 
 # Logos
-![](img/AV_ASAT-LOGO.png?raw=false)
-![](img/AV_nds_logo.png?raw=false)
+![](img/AV_ASAT-LOGO.png)
+![](img/AV_nds_logo.png)
