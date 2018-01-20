@@ -12,9 +12,15 @@ I have over four years of experience with geospatial methods, spatial statistics
 
 My areas of expertise include:
 * Demographic analysis with census and survey data at local, national, and international scales
-* Remote sensing data analysis for agriculture, environmental monitoring, and public health using ArcGIS, ENVI, and ERDAS
-* Spatial statistics including species distribution models and point process methods using R, Python, and Geoda
-* Interactive web mapping using Mapbox, Carto, and Google Maps
-* Geospatial analysis and modeling for urban planning, environmental engineering, hydrology, and natural resources management using ArcMap and QGIS
-* Cartography and map design using Adobe Illustrator, Photoshop, InDesign, Inkscape, and GIMP
+* Remote sensing data analysis for agriculture, environmental monitoring, and public health 
+* Spatial statistics including species distribution models and point process methods 
+* Interactive web mapping 
+* Geospatial analysis and modeling for urban planning, environmental engineering, hydrology, and natural resources management 
+* Cartography and map design 
 
+Skills:
+* GIS: ArcGIS, QGIS, Geoda
+* Remote Sensing: ENVI, Erdas
+* Programming: R, Python
+* Data Viz: D3, Power BI, Tableau
+* Cartography: Adobe Illustrator, Photoshop, InDesign, Inkscape, and GIMP
