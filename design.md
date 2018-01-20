@@ -10,5 +10,7 @@ I am a self-taught graphic designer, and have recently expanded this interest in
 ![](./img/gbos_lasercut.jpg)
 
 # Logos
-![](./img/AV_ASAT-LOGO.png =500x)
-![](./img/AV_nds_logo.png =100x)
+
+
+<img src="./img/AV_ASAT-LOGO.png" alt="" style="width: 500px;"/>
+<img src="./img/AV_nds_logo.png" alt="" style="width: 200px;"/>
