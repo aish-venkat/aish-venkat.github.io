@@ -19,8 +19,9 @@ subtitle: ###
 
 # Interactive Maps
 
-### 
+### Painted Desert Mural Project, Navajo Nation, AZ
 
+<iframe width="100%" height="520" frameborder="0" src="https://avenkat.carto.com/viz/bd8a3375-8bc1-4e34-923d-85551b109546/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 ### Land Use spatial data scraped from REST and aggregated by Zip Code, Marion County, IN (Power BI, ArcGIS Online)
 
