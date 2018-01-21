@@ -20,7 +20,6 @@ navbar-links:
   About Me: "aboutme"
   Portfolio: 
     - GIS: "gis"
-    - Cartography: "carto"
     - Data Viz: "dataviz"
     - Design: "design"
   Research: 
