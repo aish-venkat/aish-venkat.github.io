@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GIS 2
+title: GIS Portfolio
 subtitle: ###
 ---
 
