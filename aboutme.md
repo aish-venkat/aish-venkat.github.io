@@ -4,7 +4,7 @@ title: About me
 subtitle: About me
 ---
 
-## Geospatial Analyst | Data Scientist | Cartographer
+## Geospatial Analyst | Programmer | Cartographer
 
 I am currently a Master's candidate in [Environmental and Water Resources Engineering](https://www.engineering.tufts.edu/cee) at Tufts University. I am starting a PhD in [Agriculture, Food, and Environment](https://www.nutrition.tufts.edu) in 2018. 
 
@@ -22,5 +22,6 @@ Skills:
 * GIS: ArcGIS, QGIS, Geoda
 * Remote Sensing: ENVI, Erdas
 * Programming: R, Python
+* Web mapping: Carto, Mapbox, ArcGIS Online
 * Data Viz: D3, Power BI, Tableau
 * Cartography: Adobe Illustrator, Photoshop, InDesign, Inkscape, and GIMP
