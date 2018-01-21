@@ -15,7 +15,7 @@ subtitle: ###
 - [India Census Data Explorer](http://apps.aishwarya-venkat.com/shiny/IndiaCensusDataExplorer/)
 - [Deforestation of Indigenous Lands in Brazilian Amazon](https://aish-venkat.github.io/gis/amazon/)
 - [Parallax Map Gallery](https://aish-venkat.github.io/gis/parallax/)
-- [Quantifying socioeconomic access in Jalisco, Mexico](https://aish-venkat.github.io/gis/jalisco/)
+- [Strategic Intervention Areas to Target High Poverty in Jalisco, Mexico](https://aish-venkat.github.io/gis/jalisco/)
 
 # Interactive Maps
 
