@@ -29,10 +29,6 @@ subtitle: ###
 
 <iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiZTc3NDk3ZWUtMDM0Ni00ZmJmLWI2ZDItZjAyMGZmZTk0YWFmIiwidCI6ImZiYmY2YzYwLTAzNDQtNGMyOS05NDU5LTcyNTY4NTczOWIxOSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
 
-### Scripps National Spelling Bee- South Asian Finalists by Gender
-
-<iframe width="100%" height="520" frameborder="0" src="https://avenkat.carto.com/viz/56fc0012-24c5-11e6-8819-0ea31932ec1d/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-
 ### Heatmap of Building Code Violations in US
 
 <iframe width="100%" height="520" frameborder="0" src="https://avenkat.carto.com/viz/f54ac236-2cad-11e6-ae79-0ef7f98ade21/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
