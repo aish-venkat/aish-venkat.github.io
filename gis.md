@@ -13,7 +13,7 @@ subtitle: ###
 - [Public Art in Greater Boston](https://aish-venkat.github.io/gis/bos_art/) 
 - [African Sustainable Livestock 2050](https://aish-venkat.github.io/gis/asl2050/)
 - [Species Distribution Modelling & Covariate Analysis for Emerging Disease](http://rpubs.com/ashvenkat/abraid) 
-- [India Census Data Explorer](http://apps.aishwarya-venkat.com/shiny/IndiaCensusDataExplorer/)
+- [India Census Data Explorer](http://159.203.100.230:3838/IndiaCensusDataExplorer/)
 - [Deforestation of Indigenous Lands in Brazilian Amazon](https://aish-venkat.github.io/gis/amazon/)
 - [Parallax Map Gallery](https://aish-venkat.github.io/gis/parallax/)
 - [Strategic Intervention Areas to Target High Poverty in Jalisco, Mexico](https://aish-venkat.github.io/gis/jalisco/)
