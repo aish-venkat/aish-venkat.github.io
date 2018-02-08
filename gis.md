@@ -22,7 +22,7 @@ subtitle: ###
 
 ### Mapbox map of vehicle crashes in Allegheny County, PA (2016)
 
-<iframe src="https://bl.ocks.org/aish-venkat/raw/314dbdf59263d135acf713423ab86e3e/" width="500" height="500"></iframe>
+<iframe width="100%" height="520" frameborder="0" src="https://bl.ocks.org/aish-venkat/raw/314dbdf59263d135acf713423ab86e3e" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 ### Painted Desert Mural Project, Navajo Nation, AZ
 
