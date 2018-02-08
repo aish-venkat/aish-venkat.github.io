@@ -20,7 +20,7 @@ subtitle: ###
 
 # Interactive Maps
 
-### [MAPBOX] Vehicle crashes in Allegheny County, PA (2016)
+### [MAPBOX] Vehicle crashes in Allegheny County, PA in 2016
 
 {% gist 314dbdf59263d135acf713423ab86e3e %}
 
