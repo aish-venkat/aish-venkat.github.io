@@ -22,7 +22,14 @@ subtitle: ###
 
 ### [MAPBOX] Vehicle crashes in Allegheny County, PA (2016)
 
-<iframe width="100%" height="520" frameborder="0" src="https://bl.ocks.org/aish-venkat/raw/314dbdf59263d135acf713423ab86e3e" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<html>
+<head>
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+</head>
+<body style="margin:0px;padding:0px;overflow:hidden">
+  <iframe src="https://bl.ocks.org/aish-venkat/raw/314dbdf59263d135acf713423ab86e3e" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:100%;width:100%;position:absolute;top:0px;left:0px;right:0px;bottom:0px" height="520" width="100%"></iframe>
+</body>
+</html>
 
 ### [CARTO] Painted Desert Mural Project, Navajo Nation, AZ
 
