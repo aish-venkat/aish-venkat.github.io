@@ -4,9 +4,7 @@ title: Data Visualization
 subtitle: ###
 ---
 
-### [D3] Famine Forecasting Framework 
-
-<iframe width="800" height="600" src="https://cdn.rawgit.com/aish-venkat/f0d85e296cecc5a9ba97288a06b6f797/raw/15b3f54e4c48486f804ce2789890531b98a30799/index.html" frameborder="0" allowFullScreen="true"></iframe>
+### [D3] [Famine Forecasting Framework](http://bl.ocks.org/aish-venkat/f0d85e296cecc5a9ba97288a06b6f797)
 
 ### [Power BI] Population and Median Household Income by Zip Code, Marion County, IN 
 
