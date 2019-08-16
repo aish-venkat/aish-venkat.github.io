@@ -6,14 +6,14 @@ subtitle: About me
 
 ## Geospatial Analyst | Programmer | Cartographer
 
-I am currently a Master's candidate in [Environmental and Water Resources Engineering](https://www.engineering.tufts.edu/cee) at Tufts University. I am starting a PhD in [Agriculture, Food, and Environment](https://www.nutrition.tufts.edu) in 2018. 
+I am currently a doctoral student in [Agriculture, Food, and Environment](https://nutrition.tufts.edu/academics/degree-programs/agriculture-food-environment) at the Friedman School of Nutrition Science & Policy at Tufts University. Prior to this, I earned my MS in [Environmental Engineering](https://engineering.tufts.edu/cee/) from Tufts University, and a BS in [Biological Systems Engineering](https://www.bse.vt.edu/) from Virginia Tech.
 
-I have over four years of experience with geospatial methods, spatial statistics, urban planning, interactive mapping, and data visualization. I am also a research-oriented cartographer, with a knack for telling engaging spatial stories.
+I have over five years of experience with geospatial methods, spatial statistics, interactive mapping, and data visualization. I am a research-oriented cartographer, with a knack for telling engaging visual and spatial stories.
 
 My areas of expertise include:
-* Demographic analysis with census and survey data at local, national, and international scales
+* Statistical analysis of census and survey data at local, national, and international scales
 * Remote sensing data analysis for agriculture, environmental monitoring, and public health 
-* Spatial statistics including species distribution models and point process methods 
+* Spatial statistics including clustering, species distribution models, point process methods, and spatial 
 * Interactive web mapping 
 * Geospatial analysis and modeling for urban planning, environmental engineering, hydrology, and natural resources management 
 * Cartography and map design 
@@ -24,4 +24,4 @@ Skills:
 * Programming: R, Python
 * Web mapping: Carto, Mapbox, ArcGIS Online
 * Data Viz: D3, Power BI, Tableau
-* Cartography: Adobe Illustrator, Photoshop, InDesign, Inkscape, and GIMP
+* Design: Adobe Illustrator, Photoshop, InDesign, Inkscape, and Office suite
