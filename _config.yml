@@ -26,9 +26,7 @@ navbar-links:
   Research: 
     - Papers: "papers"
     - Posters: "posters"
-  Teaching:
-    - Courses: "courses"
-    - Workshops: "workshops"
+  Teaching: "teaching"
   CV: "cv"
   
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
