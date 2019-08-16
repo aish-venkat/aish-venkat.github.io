@@ -22,7 +22,6 @@ navbar-links:
     - Apps: "apps"
     - GIS: "gis"
     - Data Viz: "dataviz"
-    - Design: "design"
   Research: 
     - Papers: "papers"
     - Posters: "posters"
