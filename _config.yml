@@ -22,9 +22,7 @@ navbar-links:
     - Apps: "apps"
     - GIS: "gis"
     - Data Viz: "dataviz"
-  Research: 
-    - Papers: "papers"
-    - Posters: "posters"
+  Research: "research"
   Teaching: "teaching"
   CV: "cv"
   
