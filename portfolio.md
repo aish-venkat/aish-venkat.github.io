@@ -4,11 +4,6 @@ title: GIS Portfolio
 subtitle: ###
 ---
 
-# Academic Research
-- [Cholera in India](https://aish-venkat.github.io/gis/cholera/) 
-- [Remote Sensing of Agriculture in Tamil Nadu, India](https://aish-venkat.github.io/gis/tn_ag/)
-- [Cailfornia Drought](https://aish-venkat.github.io/gis/ca_drought/)
-
 # Projects & Products
 - [Public Art in Greater Boston](https://aish-venkat.github.io/gis/bos_art/) 
 - [African Sustainable Livestock 2050](https://aish-venkat.github.io/gis/asl2050/)
