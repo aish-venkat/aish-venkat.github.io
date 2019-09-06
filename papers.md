@@ -11,7 +11,7 @@ Simpson, R. B., **Venkat, A.**, Alarcon, T., Chui, K., Naumov, Y., Gorski, J., B
 ## 2018
 
 <img src="../img/icon_thesis.png" height="20px">
-Venkat, A. (2018). [Sub-basin Valuation of Agriculture: A Crop-specific Assessment of Groundwater Footprints and Value in California.](https://dl.tufts.edu/concern/pdfs/n009wd499) (Master of Science dissertation, Tufts University).
+**Venkat, A**. (2018). [Sub-basin Valuation of Agriculture: A Crop-specific Assessment of Groundwater Footprints and Value in California.](https://dl.tufts.edu/concern/pdfs/n009wd499) (Master of Science dissertation, Tufts University).
 
 ## 2017
 
