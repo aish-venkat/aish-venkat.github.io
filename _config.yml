@@ -18,10 +18,7 @@ description: Welcome to Aishwarya Venkat's webpage!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Portfolio: 
-    - Apps: "apps"
-    - GIS: "gis"
-    - Data Viz: "dataviz"
+  Portfolio: "portfolio"
   Research: "research"
   Teaching: "teaching"
   CV: "cv"
