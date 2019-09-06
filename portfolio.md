@@ -15,7 +15,7 @@ subtitle: ###
 
 # Cartography
 
-### [ARMAP] Köppen-Geiger climate classification map of Russia per [Beck et al, 2018](https://www.nature.com/articles/sdata2018214)
+### [ARCMAP] Köppen-Geiger climate classification map of Russia per [Beck et al, 2018](https://www.nature.com/articles/sdata2018214)
 
 <img src="../gis/koppen_russia.png" height="600" width = "800">
 
