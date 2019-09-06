@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Papers
+title: Research
 ---
 
 ## 2019 
