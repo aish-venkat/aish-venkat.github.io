@@ -17,7 +17,7 @@ subtitle: ###
 
 ### [ARMAP] Köppen-Geiger climate classification map of Russia per [Beck et al, 2018](https://www.nature.com/articles/sdata2018214)
 
-![](../img/koppen_russia.png, height="500", width="700") 
+![](/gis/koppen_russia.png, height="500", width="700") 
 
 ### [MAPBOX] Vehicle crashes in Allegheny County, PA in 2016
 
