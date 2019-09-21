@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ""
-image: "https://i2.wp.com/www.fatosmorina.com/wp-content/uploads/2018/11/hello-world.png"
+title: Hello world!
+image: https://i2.wp.com/www.fatosmorina.com/wp-content/uploads/2018/11/hello-world.png
 tags: [intro]
 ---
 
