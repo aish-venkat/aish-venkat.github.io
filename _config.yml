@@ -21,9 +21,10 @@ paginate_path: "/blog/page:num/"
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Portfolio: "portfolio"
-  Research: "research"
-  Teaching: "teaching"
+  Work: 
+    Portfolio: "portfolio"
+    Research: "research"
+    Teaching: "teaching"
   CV: "cv"
   Blog: "https://aish-venkat.github.io/blog/index.html"
   LinkedIn: "http://linkedin.com/in/ashvenkat"
