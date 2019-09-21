@@ -25,6 +25,7 @@ navbar-links:
   Research: "research"
   Teaching: "teaching"
   CV: "cv"
+  Blog: "https://aish-venkat.github.io/blog/index.html"
   LinkedIn: "http://linkedin.com/in/ashvenkat"
   
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
