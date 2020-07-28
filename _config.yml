@@ -11,7 +11,7 @@ baseurl: ""
 title: Aishwarya Venkat
 
 # Short description of your site
-description: Welcome to Aishwarya Venkat's webpage!
+description: Geospatial Analyst, Programmer, Researcher
 
 # -- Paginating blog page --- #
 paginate_path: "/blog/page:num/"
