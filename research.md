@@ -6,7 +6,7 @@ title: Research
 ## 2020
 
 <img src="../img/icon_report.png" height="20px">
-Herforth, A., Bai, Y., **Venkat, A.**, Mahrt, K., Ebel, A. & Masters, W.A. 2020. [Cost and affordability of healthy diets across and within countries. Background paper for The State of Food Security and Nutrition in the World 2020](http://www.fao.org/3/ca9692en/CA9692EN.pdf). Rome, FAO.
+Herforth, A., Bai, Y., **Venkat, A.**, Mahrt, K., Ebel, A. & Masters, W.A. 2020. [Cost and affordability of healthy diets across and within countries. Background paper for The State of Food Security and Nutrition in the World 2020](http://www.fao.org/3/cb2431en/cb2431en.pdf). Rome, FAO.
 
 ## 2019 
 
