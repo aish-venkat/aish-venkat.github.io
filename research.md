@@ -3,6 +3,11 @@ layout: page
 title: Research
 ---
 
+## 2021
+
+<img src="../img/icon_journalarticle.png" height="20px">
+Marshak, A., **Venkat, A.**, Naumova, & Naumova, E. N. (2021). [How Seasonality of Malnutrition Is Measured and Analyzed](https://www.mdpi.com/1660-4601/18/4/1828) Int. J. Environ. Res. Public Health 2021, 18(4), 1828; https://doi.org/10.3390/ijerph18041828
+
 ## 2020
 
 <img src="../img/icon_report.png" height="20px">
@@ -11,17 +16,10 @@ Herforth, A., Bai, Y., **Venkat, A.**, Mahrt, K., Ebel, A. & Masters, W.A. 2020.
 ## 2019 
 
 <img src="../img/icon_journalarticle.png" height="20px">
+**Venkat, A.**, Alarcon Falconi, T.M., Cruz, M., Hartwick, M. A., Anandan, S., Kumar, N., Ward, H., Veeraraghavan, B., Naumova, E.N. [Spatiotemporal patterns of cholera hospitalization in Vellore, India](https://www.mdpi.com/1660-4601/16/21/4257). Int. J. Environ. Res. Public Health 2021, 16(21), 4257.
+
+<img src="../img/icon_journalarticle.png" height="20px">
 Simpson, R. B., **Venkat, A.**, Alarcon, T., Chui, K., Naumov, Y., Gorski, J., Bhattacharyya, S. & Naumova, E. (2019). [Calendar effects to forecast influenza seasonality: A case study in Milwaukee, WI.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6606152/) Online Journal of Public Health Informatics, 11(1).
-
-<img src="../img/icon_conferenceposter.png" height="20px">
-**Venkat, A.**, Marshak, A., Simpson, R.B., Naumova, EN. [Global Evidence on the Seasonality of Enteric Infections, Undernutrition,
-and Livestock Ownership.](http://aish-venkat.github.io/research/poster_iceid2019_2.pdf) Presented at the [International Conference on Epidemiology and Infectious Diseases](https://waset.org/conference/2019/04/boston/ICEID) in Boston, MA.
-
-<img src="../img/icon_conferenceposter.png" height="20px">
-Simpson, R., Waskow, A., **Venkat, A.**, Zhou, B., Naumova, EN. [Foodborne Outbreak Calendar: Applications of Time Series.](http://aish-venkat.github.io/research/poster_iceid2019_1.pdf) Presented at the [International Conference on Epidemiology and Infectious Diseases](https://waset.org/conference/2019/04/boston/ICEID) in Boston, MA.
-
-<img src="../img/icon_conferenceposter.png" height="20px">
-Simpson, R. B., **Venkat, A.**, Alarcon, T., Chui, K., Naumov, Y., Gorski, J., Bhattacharyya, S., Naumova, E. [Incorporating Calendar Effects to Predict Influenza Seasonality: A Case Study in Milwaukee, Wisconsin (2004-2009)](http://aish-venkat.github.io/research/poster_isds2019.pdf). Presented at the [International Society for Disease Surveillance Conference](https://www.healthsurveillance.org/page/2019conference) in San Diego, CA.
 
 ## 2018
 
