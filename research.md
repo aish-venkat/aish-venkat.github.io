@@ -10,7 +10,7 @@ Wallingford, J., **Venkat, A.**, & Masters, W. A. (2022). [Impacts of extreme we
 
 ## 2021
 
-<img src="../img/icon_conferencepaper.png" height="20px">
+<img src="../img/icon_presentation.png" height="20px">
 Masters, W. A., **Venkat, A.**. (2021). [Cost and affordability of a nutritious diet: New data for policymaking by national governments and international development agencies](https://sites.tufts.edu/foodpricesfornutrition/files/2021/10/WillMasters-AshVenkat_DietCostAffordabilityForUSAID-AgPolicyResearchConsortium_2-3Nov2021_NONOTES.pptx) Presented at the [Feed the Future Policy Research Consortium](http://ru-ftf.rutgers.edu/Conference%20Programme.pdf)
 
 <img src="../img/icon_journalarticle.png" height="20px">
