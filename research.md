@@ -3,10 +3,18 @@ layout: page
 title: Research
 ---
 
+## 2022
+
+<img src="../img/icon_conferencepaper.png" height="20px">
+Wallingford, J., **Venkat, A.**, & Masters, W. A. (2022). [Impacts of extreme weather and COVID-19 shockson retail food prices in LMICs](../research/FoodPricesCovidAndClimateShocks_ASSA2022_7Jan2022.pdf) Presented at the [Allied Social Sciences Associations (ASSA) Annual Meeting (Virtual)](https://www.aeaweb.org/conference/2022/preliminary)
+
 ## 2021
 
+<img src="../img/icon_conferencepaper.png" height="20px">
+Masters, W. A., **Venkat, A.**. (2021). [Cost and affordability of a nutritious diet: New data for policymaking by national governments and international development agencies](https://sites.tufts.edu/foodpricesfornutrition/files/2021/10/WillMasters-AshVenkat_DietCostAffordabilityForUSAID-AgPolicyResearchConsortium_2-3Nov2021_NONOTES.pptx) Presented at the [Feed the Future Policy Research Consortium](http://ru-ftf.rutgers.edu/Conference%20Programme.pdf)
+
 <img src="../img/icon_journalarticle.png" height="20px">
-Marshak, A., **Venkat, A.**, Naumova, & Naumova, E. N. (2021). [How Seasonality of Malnutrition Is Measured and Analyzed](https://www.mdpi.com/1660-4601/18/4/1828) Int. J. Environ. Res. Public Health 2021, 18(4), 1828; https://doi.org/10.3390/ijerph18041828
+Marshak, A., **Venkat, A.**, & Naumova, E. N. (2021). [How Seasonality of Malnutrition Is Measured and Analyzed](https://www.mdpi.com/1660-4601/18/4/1828) Int. J. Environ. Res. Public Health 2021, 18(4), 1828; https://doi.org/10.3390/ijerph18041828
 
 ## 2020
 
