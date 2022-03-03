@@ -16,6 +16,10 @@ I have been engaged in active teaching and facilitation for several years now. B
 
 ## Workshops
 
+## Tufts Research and Data Symposium for Food and Nutrition (March 3, 2022)
+
+<iframe src="https://github.com/aish-venkat/aish-venkat.github.io/blob/master/research/Venkat_SpatialStatistics_TuftsResearchAndDataSymposium_2022.03.03.pdf" width="900" height="600" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen> </iframe>
+
 ### Intro to Spatial Data in R
 
 <iframe src="http://rpubs.com/ashvenkat/iadar_spatialdatainR" frameborder="0" width="900" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
