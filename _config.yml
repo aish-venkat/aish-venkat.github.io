@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Research: "research"
   Teaching: "teaching"
-  CV: "cv"
+  CV: "https://aish-venkat.github.io/research/Venkat%20CV.pdf"
   LinkedIn: "http://linkedin.com/in/ashvenkat"
   
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
