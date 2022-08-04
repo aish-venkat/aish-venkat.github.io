@@ -21,7 +21,7 @@ My areas of expertise include:
 Skills:
 * GIS: ArcGIS, QGIS, Geoda
 * Remote Sensing: ENVI, Erdas
-* Programming: R, Python
+* Programming/Statistics/Data Analysis: R, Python, Stata
 * Web mapping: Carto, Mapbox, ArcGIS Online
 * Data Viz: D3, Power BI, Tableau
 * Design: Adobe Illustrator, Photoshop, InDesign, Inkscape, and Office suite
