@@ -5,6 +5,12 @@ title: Research
 
 ## 2022
 
+<img src="../img/icon_report.png" height="20px">
+Herforth, A., **Venkat, A.**, Bai, Y., Costlow, L., Holleman, C. & Masters, W.A. (2022). [Methods and options to monitor the cost and affordability of a healthy diet globally. Background paper for The State of Food Security and Nutrition in the World 2022](https://www.fao.org/publications/card/en/c/CC1169EN). FAO Agricultural Development Economics Working Paper 22-03. Rome, FAO.
+
+<img src="../img/icon_conferencepaper.png" height="20px">
+**Venkat, A.** and Masters, W. A. (2022). [Retail Food Price Vulnerability to Extreme Weather Events](https://ageconsearch.umn.edu/record/322603/files/24736.pdf). Presented at the [Agricultural & Applied Economics Association (AAEA) Annual Meeting 2022](https://www.aaea.org/meetings/2022-aaea-annual-meeting). 
+
 <img src="../img/icon_conferencepaper.png" height="20px">
 Wallingford, J., **Venkat, A.**, & Masters, W. A. (2022). [Impacts of extreme weather and COVID-19 shockson retail food prices in LMICs](../research/FoodPricesCovidAndClimateShocks_ASSA2022_7Jan2022.pdf) Presented at the [Allied Social Sciences Associations (ASSA) Annual Meeting (Virtual)](https://www.aeaweb.org/conference/2022/preliminary)
 
