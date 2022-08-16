@@ -19,6 +19,9 @@ Wallingford, J., **Venkat, A.**, & Masters, W. A. (2022). [Impacts of extreme we
 <img src="../img/icon_presentation.png" height="20px">
 Masters, W. A., **Venkat, A.**. (2021). [Cost and affordability of a nutritious diet: New data for policymaking by national governments and international development agencies](https://sites.tufts.edu/foodpricesfornutrition/files/2021/10/WillMasters-AshVenkat_DietCostAffordabilityForUSAID-AgPolicyResearchConsortium_2-3Nov2021_NONOTES.pptx) Presented at the [Feed the Future Policy Research Consortium](http://ru-ftf.rutgers.edu/Conference%20Programme.pdf)
 
+<img src="../img/icon_report.png" height="20px">
+Marshak, A. and **Venkat, A.**. (2021). [Climatic variability, disaster, conflict and nutrition in Kenya›s ASALs](https://fic.tufts.edu/publication-item/climatic-variability-and-disasters-in-kenyas-arid-and-semi-arid-lands-nawiri-desk-study/). Desk Review. Feinstein International Center, Tufts University.
+
 <img src="../img/icon_journalarticle.png" height="20px">
 Marshak, A., **Venkat, A.**, & Naumova, E. N. (2021). [How Seasonality of Malnutrition Is Measured and Analyzed](https://www.mdpi.com/1660-4601/18/4/1828) Int. J. Environ. Res. Public Health 2021, 18(4), 1828; https://doi.org/10.3390/ijerph18041828
 
