@@ -6,7 +6,7 @@ title: Research
 ## 2022
 
 <img src="../img/icon_bookchapter.png" height="20px">
-Cliffer, I., Marshak, A., Schneider, K., **Venkat, A.**, Naumova, E. N. (2022). Seasonality of nutrition. Encyclopedia of Human Nutrition, 4th Edition.
+Cliffer, I.R., Marshak, A., Schneider, K.R., **Venkat, A.**, Naumova, E.N., 2023. [Seasonality of nutrition](https://dx.doi.org/10.1016/B978-0-12-821848-8.00170-0). In: Caballero, B. (Ed.), Encyclopedia of Human Nutrition, vol. 4. Elsevier, Academic Press, pp. 350–368. 
 
 <img src="../img/icon_presentation.png" height="20px"> Venkat, A. and Masters, W. A. (2022). [Extreme Weather Events Differentially Impact Retail Food Prices: Evidence From Early Warning Systems](https://aish-venkat.github.io/research/Venkat_ClimateShocksFoodPrices_ASN2022.pdf). Presented at the [American Society for Nutrition 2022 Annual Meeting (Virtual)](https://nutrition.org/nutrition-2022-live-online/program/). 
 
