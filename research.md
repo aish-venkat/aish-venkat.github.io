@@ -5,6 +5,9 @@ title: Research
 
 ## 2023
 
+<img src="../img/icon_presentation.png" height="20px">
+**Venkat, A.**, Marshak, A., Naumova, E.N. (2023). [Seasonal Patterns of Acute Malnutrition and Climatic Variability: Evidence from Africa](../research/Venkat_AGUChapman2023_SeasonalityOfAcuteMalnutrition.pdf) Presented on June 12, 2023 at the [AGU Chapman Conference for Climate and Health in Africa](https://www.agu.org/Chapmans-Climate-and-Health)
+
 <img src="../img/icon_bookchapter.png" height="20px">
 Cliffer, I.R., Marshak, A., Schneider, K.R., **Venkat, A.**, Naumova, E.N., 2023. [Seasonality of nutrition](https://dx.doi.org/10.1016/B978-0-12-821848-8.00170-0). In: Caballero, B. (Ed.), Encyclopedia of Human Nutrition, vol. 4. Elsevier, Academic Press, pp. 350–368. 
 
