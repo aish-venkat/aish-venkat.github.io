@@ -5,6 +5,10 @@ title: Research
 
 ## 2023
 
+<img src="../img/icon_journalarticle.png" height="20px">
+**Venkat, A.**,Marshak, A., Young, H., & Naumova, E.N (2023). [Seasonality of Acute Malnutrition in African Drylands: Evidence From 15 Years of SMART Surveys
+](https://journals.sagepub.com/doi/abs/10.1177/03795721231178344). Food and Nutrition Bulletin. 44(2_suppl):S94-S108. doi:10.1177/03795721231178344
+
 <img src="../img/icon_presentation.png" height="20px">
 **Venkat, A.**, Marshak, A., Naumova, E.N. (2023). [Seasonal Patterns of Acute Malnutrition and Climatic Variability: Evidence from Africa](../research/Venkat_AGUChapman2023_SeasonalityOfAcuteMalnutrition.pdf) Presented on June 12, 2023 at the [AGU Chapman Conference for Climate and Health in Africa](https://www.agu.org/Chapmans-Climate-and-Health)
 
