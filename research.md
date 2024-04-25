@@ -2,6 +2,10 @@
 layout: page
 title: Research
 ---
+## 2024
+
+<img src="../img/icon_presentation.png" height="20px">
+Thesis Defense: [Climate and Health: Extreme Weather, Food Systems, and Nutrition](../research/Venkat Thesis Defense 2024.04.24.pdf) Presented on April 24, 2024 at Tufts University.
 
 ## 2023
 
