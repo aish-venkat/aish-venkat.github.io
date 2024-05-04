@@ -4,21 +4,21 @@ title: About me
 subtitle: About me
 ---
 
-## Geospatial Analyst | Programmer | Cartographer
+## Food Systems Analyst | Methodologist | Cartographer
 
-I am currently a doctoral student in [Agriculture, Food, and Environment](https://nutrition.tufts.edu/academics/degree-programs/agriculture-food-environment) at the Friedman School of Nutrition Science & Policy at Tufts University. Prior to this, I earned my MS in [Environmental Engineering](https://engineering.tufts.edu/cee/) from Tufts University, and a BS in [Biological Systems Engineering](https://www.bse.vt.edu/) from Virginia Tech.
+I am a recent doctoral graduate from the [Friedman School of Nutrition Science & Policy at Tufts University](https://nutrition.tufts.edu/) with a specialty in [Agriculture, Food, and Environment](https://nutrition.tufts.edu/academics/degree-programs/agriculture-food-environment). Prior to this, I earned my MS in [Environmental Engineering](https://engineering.tufts.edu/cee/) from Tufts University, and a BS in [Biological Systems Engineering](https://www.bse.vt.edu/) from Virginia Tech.
 
-I have over eight years of experience with geospatial methods, spatial statistics, interactive mapping, and data visualization. I am a research-oriented cartographer, with a knack for telling engaging visual and spatial stories.
+I specialize in data wrangling and spatiotemporal harmonization to extract interdisciplinary insights for food systems. My subject matter expertise includes extreme weather event measurement, climate dynamics, acute malnutrition seasonality, diet costs and affordability, and famine early warning.
 
-My areas of expertise include:
+My skills include:
+* Remote sensing analytics for food security, agriculture, and public health 
 * Statistical analysis of census and survey data at local, national, and international scales
-* Remote sensing data analysis for agriculture, environmental monitoring, and public health 
 * Spatial statistics including clustering, point process methods, regression techniques, and space-time methods
-* Geospatial analysis and modeling for urban planning, environmental engineering, hydrology, and natural resources management 
+* Geospatial analysis, vulnerability mapping, and predictive spatial modeling
 * Interactive web mapping 
 * Cartography and map design 
 
-Skills & Software Expertise:
+Software Expertise:
 * GIS: ArcGIS, QGIS, Geoda
 * Remote Sensing: ENVI, Erdas
 * Programming/Statistics/Data Analysis: R, Python, Stata
