@@ -19,6 +19,10 @@ subtitle: ###
 
 <img src="../gis/koppen_russia.png" height="600" width = "800">
 
+### [ARCGIS Online] California Drought
+
+<iframe width="100%" height="600" frameborder="0" src="https://www.arcgis.com/apps/MapJournal/index.html?appid=b107ab2bd32347dd884cf74d8cf54ec3" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 ### [MAPBOX] Vehicle crashes in Allegheny County, PA in 2016
 
 <iframe width="100%" height="600" frameborder="0" src="https://cdn.rawgit.com/aish-venkat/314dbdf59263d135acf713423ab86e3e/raw/06b6456987306999bb20297bdffc8056b247f03f/index.html" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
