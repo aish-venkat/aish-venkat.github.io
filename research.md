@@ -5,7 +5,7 @@ title: Research
 ## 2024
 
 <img src="../img/icon_presentation.png" height="20px">
-**Venkat, A.**, Marshak, A., Naumova, E.N. (2024). [Improved models of seasonality for global food security and nutrition](../research/Venkat_AcuteMalnutritionSeasonality_GEOMED2024.pdf) Presented on September 11, 2023 at [GEOMED 2024](https://www.uhasselt.be/en/events-en/2023-2024/geomed2024/)
+**Venkat, A.**, Marshak, A., Naumova, E.N. (2024). [Improved models of seasonality for global food security and nutrition](../research/Venkat_AcuteMalnutritionSeasonality_GEOMED2024.pdf) Presented on September 11, 2024 at [GEOMED 2024](https://www.uhasselt.be/en/events-en/2023-2024/geomed2024/)
 
 <img src="../img/icon_presentation.png" height="20px">
 Doctoral Dissertation Defense: [Climate and Health: Extreme Weather, Food Systems, and Nutrition](../research/Venkat Thesis Defense 2024.04.24.pdf) Presented on April 24, 2024 at Tufts University.
