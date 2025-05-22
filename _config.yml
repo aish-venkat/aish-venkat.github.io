@@ -21,7 +21,7 @@ paginate_path: "/blog/page:num/"
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Work: ""
+  Work: 
     Research: "research"
     Projects: "portfolio"
     Workshops: "workshops"
@@ -53,7 +53,7 @@ author:
   email: "aishwarya.venkat@tufts.edu"
   github: aish-venkat    # eg. daattali
   linkedin: ashvenkat  # eg. daattali
-  instagram: mapgirlash # eg. daattali
+  instagram: "" # eg. daattali
 
 # Select which links to show in the footer
 footer-links-active:
@@ -85,7 +85,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "aishwarya-venkat.com"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: ""  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
