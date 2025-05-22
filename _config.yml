@@ -21,7 +21,7 @@ paginate_path: "/blog/page:num/"
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Work
+  Work: ""
     Research: "research"
     Projects: "portfolio"
     Workshops: "workshops"
