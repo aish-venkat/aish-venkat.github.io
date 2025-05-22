@@ -1,18 +1,8 @@
 ---
 layout: page
-title: Teaching
+title: Workshops
 subtitle: ###
 ---
-
-## Courses
-
-I have been engaged in active teaching and facilitation for several years now. Below is a list of courses for which I have served as a Graduate Teaching Assistant or Teaching Fellow. Task descriptions are available on my [LinkedIn page](https://www.linkedin.com/in/ashvenkat/).
-
-  - UEP 294: Spatial Statistics, Tufts University (Spring 2019)
-  - GIS Data Lab Assistant, Tufts University (2014-2018)
-  - EN 1: Applications: Climate Change Engineering, Tufts University (Fall 2016)
-  - CEE 194: Intro to GIS, Tufts University (Summer 2016)
-  - Water, Health and Sustainable Development at Harvard University Extension School (Spring and Summer 2016)
 
 ## Workshops
 
